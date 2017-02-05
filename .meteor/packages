@@ -33,5 +33,6 @@ accounts-password
 matb33:bootstrap-glyphicons
 zimme:active-route
 gwendall:auth-client-callbacks
-meteortoys:allthings    # control+m in browser
-datariot:ganalytics                   # Google Analytics
+meteortoys:allthings               # control+m in browser
+datariot:ganalytics                # Google Analytics
+check                              # Check function
