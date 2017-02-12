@@ -25,14 +25,14 @@ stolinski:stylus-multi
 fortawesome:fontawesome
 spiderable
 fastclick
-raix:handlebar-helpers     
+raix:handlebar-helpers          # Allow define diferents helpers than spacebars
 aldeed:collection2
 aldeed:autoform
 accounts-ui
 accounts-password
 matb33:bootstrap-glyphicons
 zimme:active-route
-gwendall:auth-client-callbacks     #onLogin & onLogout functions
+gwendall:auth-client-callbacks     # onLogin & onLogout functions
 meteortoys:allthings               # control+m in browser
 datariot:ganalytics                # Google Analytics
 check                              # Check function
